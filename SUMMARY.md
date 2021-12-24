@@ -1,19 +1,18 @@
 # Table of contents
 
-* [flutter\_distributor](README.md)
+* [Getting Started](README.md)
 * [CLI](cli.md)
 
-## Makers
+## Configuration
 
-* [aab](makers/aab.md)
-* [apk](makers/apk.md)
-* [deb](makers/deb.md)
-* [dmg](makers/dmg.md)
-* [exe](makers/exe.md)
-* [ipa](makers/ipa.md)
-* [zip](makers/zip.md)
-
-## Publishers
-
-* [fir](publishers/fir.md)
-* [pgyer](publishers/pgyer.md)
+* [Makers](configuration/makers/README.md)
+  * [aab](configuration/makers/aab.md)
+  * [apk](configuration/makers/apk.md)
+  * [deb](configuration/makers/deb.md)
+  * [dmg](configuration/makers/dmg.md)
+  * [exe](configuration/makers/exe.md)
+  * [ipa](configuration/makers/ipa.md)
+  * [zip](configuration/makers/zip.md)
+* [Publishers](configuration/publishers/README.md)
+  * [fir](configuration/publishers/fir.md)
+  * [pgyer](configuration/publishers/pgyer.md)
