@@ -10,6 +10,6 @@ You can Star the GitHub Repo below to help Flutter Distributor get more attentio
 
 ## One-time donation
 
-<table><thead><tr><th data-type="files">WeChatPay</th><th data-type="files">Alipay</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table>
+[![paypal.me/lijy91](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/lijy91)
 
 ![AliPay](.gitbook/assets/donate\_via\_alipay.png) ![WeChatPay](.gitbook/assets/donate\_via\_wechatpay.png)
