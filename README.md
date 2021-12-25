@@ -8,7 +8,7 @@ description: >-
 
 ## Distribute Options
 
-```
+```yaml
 env:
   FIR_API_TOKEN: 'your api token'
   PGYER_API_TOKEN: 'your api token'
