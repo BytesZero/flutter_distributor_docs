@@ -8,8 +8,6 @@ dart pub global activate parse_app_package
 
 ## Usage
 
-Example:
-
 ```
 parse_app_package hello_world-1.0.0+1-android.apk
 ```
