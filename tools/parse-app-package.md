@@ -6,7 +6,7 @@
 dart pub global activate parse_app_package
 ```
 
-## **Usage**
+## Usage
 
 Example:
 
