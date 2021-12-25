@@ -16,3 +16,11 @@
 * [Publishers](configuration/publishers/README.md)
   * [fir](configuration/publishers/fir.md)
   * [pgyer](configuration/publishers/pgyer.md)
+
+## Advanced
+
+* [Page 1](advanced/page-1.md)
+
+***
+
+* [Sponsor](sponsor.md)
