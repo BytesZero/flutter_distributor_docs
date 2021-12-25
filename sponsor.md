@@ -6,7 +6,7 @@ If my work is helpful to you, or just want to support me to continue to develop,
 
 You can Star the GitHub Repo below to help Flutter Distributor get more attention.
 
-* https://github.com/leanflutter/flutter\_distributor
+* [https://github.com/leanflutter/flutter\_distributor](https://github.com/leanflutter/flutter\_distributor)
 
 ## One-time donation
 
