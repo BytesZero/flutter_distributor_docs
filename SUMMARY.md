@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
 * [CLI](cli.md)
+* [Sponsor](sponsor.md)
 
 ## Configuration
 
@@ -19,8 +20,4 @@
 
 ## Advanced
 
-* [Page 1](advanced/page-1.md)
-
-***
-
-* [Sponsor](sponsor.md)
+* [Auto Update](advanced/auto-update.md)
