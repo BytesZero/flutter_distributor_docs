@@ -21,7 +21,3 @@
 ## Tools
 
 * [Parse App Package](tools/parse-app-package.md)
-
-## Advanced
-
-* [Auto Update](advanced/auto-update.md)
