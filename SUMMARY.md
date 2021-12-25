@@ -18,6 +18,10 @@
   * [fir](configuration/publishers/fir.md)
   * [pgyer](configuration/publishers/pgyer.md)
 
+## Tools
+
+* [Parse App Package](tools/parse-app-package.md)
+
 ## Advanced
 
 * [Auto Update](advanced/auto-update.md)
