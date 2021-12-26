@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
 * [CLI](cli.md)
+* [Distribute Options](distribute-options.md)
 * [Sponsor](sponsor.md)
 
 ## Configuration
