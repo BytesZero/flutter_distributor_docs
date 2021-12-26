@@ -22,3 +22,8 @@
 ## Tools
 
 * [Parse App Package](tools/parse-app-package.md)
+
+## Related Links
+
+* [GitHub](https://github.com/leanflutter/flutter\_distributor)
+* [Discord](https://discord.com/invite/zPa6EZ2jqb)
