@@ -7,5 +7,5 @@ The pgyer target publishes your `.apk` or `.ipa` artifacts to the [pgyer.com](ht
 requires some environment variables set up to run correctly.
 
 ```
-export PGYER_API_TOKEN="your api token"
+export PGYER_API_KEY="your api key"
 ```

@@ -35,7 +35,7 @@ Check out the [Publishers](configuration/publishers/) documentation for all poss
 
 ### Configure Release Items
 
-The following example shows how to add a release that contains package `apk`, `ipa` and publish to `pgyer.com`, A `release` can include multiple jobs.&#x20;
+The following example shows how to add a release that contains package `apk`, `ipa` and publish to `pgyer.com`, A `release` can include multiple jobs.
 
 {% hint style="info" %}
 The `build_args` are the args supported by the `flutter build` command, please modify it according to your project.
@@ -65,7 +65,7 @@ releases:
         publish_to: pgyer
 ```
 
-### Complete Example
+### Full Example Configuration
 
 ```yaml
 env:
@@ -100,6 +100,6 @@ releases:
 flutter_distributor release --name dev
 ```
 
-## Thank You <a href="#thank-20you" id="thank-20you"></a>
+## Thank You
 
 🎉 🎉 🎉
