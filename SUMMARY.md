@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [CLI](cli.md)
 * [Distribute Options](distribute-options.md)
+* [CLI](cli.md)
 * [Sponsor](sponsor.md)
 
 ## Configuration

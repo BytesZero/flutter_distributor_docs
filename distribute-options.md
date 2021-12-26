@@ -5,7 +5,7 @@
 ```yaml
 env:
   FIR_API_TOKEN: 'your api token'
-  PGYER_API_TOKEN: 'your api token'
+  PGYER_API_KEY: 'your api key'
 output: dist/
 releases:
   - name: dev
