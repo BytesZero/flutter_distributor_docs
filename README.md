@@ -45,23 +45,27 @@ The `build_args` are the args supported by the `flutter build` command, please m
 releases:
   - name: dev
     jobs:
+      # Build and publish your apk pkg to pgyer
       - name: release-dev-android
         package:
           platform: android
           target: apk
           build_args:
-            target: lib/main.dart
             flavor: dev
             target-platform: android-arm,android-arm64
+            dart-define:
+              APP_ENV: dev
         publish_to: pgyer
+      # Build and publish your ipa pkg to pgyer
       - name: release-dev-ios
         package:
           platform: ios
           target: ipa
           build_args:
-            target: lib/main.dart
             flavor: dev
             export-options-plist: ios/dev_ExportOptions.plist
+            dart-define:
+              APP_ENV: dev
         publish_to: pgyer
 ```
 
@@ -74,23 +78,27 @@ output: dist/
 releases:
   - name: dev
     jobs:
+      # Build and publish your apk pkg to pgyer
       - name: release-dev-android
         package:
           platform: android
           target: apk
           build_args:
-            target: lib/main.dart
             flavor: dev
             target-platform: android-arm,android-arm64
+            dart-define:
+              APP_ENV: dev
         publish_to: pgyer
+      # Build and publish your ipa pkg to pgyer
       - name: release-dev-ios
         package:
           platform: ios
           target: ipa
           build_args:
-            target: lib/main.dart
             flavor: dev
             export-options-plist: ios/dev_ExportOptions.plist
+            dart-define:
+              APP_ENV: dev
         publish_to: pgyer
 ```
 
