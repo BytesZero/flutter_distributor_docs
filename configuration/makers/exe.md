@@ -17,3 +17,7 @@ Run:
 ```
 flutter_distributor package --platform windows --targets exe
 ```
+
+## Related Links
+
+[https://jrsoftware.org/isinfo.php](https://jrsoftware.org/isinfo.php)

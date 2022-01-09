@@ -26,3 +26,7 @@ Run:
 ```
 flutter_distributor package --platform macos --targets dmg
 ```
+
+## Related Links
+
+[https://github.com/LinusU/node-appdmg](https://github.com/LinusU/node-appdmg)
