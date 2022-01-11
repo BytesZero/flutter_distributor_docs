@@ -4,6 +4,18 @@
 You can only build the DMG target on macOS machines.
 {% endhint %}
 
+##
+
+## **Requirements**
+
+* `appdmg`
+
+Run the following command
+
+```
+npm install -g appdmg
+```
+
 ## Usage
 
 Add `make_config.yaml` to your project `macos/packaging/dmg` directory.
