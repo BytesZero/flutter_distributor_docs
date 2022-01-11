@@ -18,6 +18,8 @@ Run:
 flutter_distributor package --platform windows --targets exe
 ```
 
+> PowerShell is not supported yet, please use Git Shell and execute `flutter_distributor.bat`.
+
 ## Related Links
 
 [https://jrsoftware.org/isinfo.php](https://jrsoftware.org/isinfo.php)
