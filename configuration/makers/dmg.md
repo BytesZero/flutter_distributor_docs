@@ -4,7 +4,7 @@
 You can only build the DMG target on macOS machines.
 {% endhint %}
 
-## **Requirements**
+## Requirements
 
 * `appdmg`
 

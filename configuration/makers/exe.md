@@ -1,6 +1,6 @@
 # exe
 
-## **Requirements**
+## Requirements
 
 * [`Inno Setup 6`](https://jrsoftware.org/isinfo.php)``
 
