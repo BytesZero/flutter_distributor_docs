@@ -18,6 +18,10 @@ macOS
 brew install p7zip
 ```
 
-\
+## Usage
 
+Run:
 
+```
+flutter_distributor package --platform linux --targets zip
+```
