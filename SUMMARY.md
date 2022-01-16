@@ -18,6 +18,7 @@
 * [Publishers](configuration/publishers/README.md)
   * [fir](configuration/publishers/fir.md)
   * [pgyer](configuration/publishers/pgyer.md)
+  * [qiniu](configuration/publishers/qiniu.md)
 
 ## Tools
 
