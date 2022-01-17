@@ -2,15 +2,24 @@
 
 The firebase target publishes your package artifacts to the [firebase](https://console.firebase.google.com/project/_/appdistribution).
 
-## Install Firebase CLI
+## Requirements
 
-- [https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli](https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli)
+- `Firebase CLI`
+
+Run the following command
+
+```
+npm install -g firebase-tools
+```
 
 ## Set up environment variables
 
 requires some environment variables set up to run correctly.
 
 ```
+# Get token https://firebase.google.com/docs/cli?authuser=0#cli-ci-systems
+firebase login:ci
+
 export FIREBASE_TOKEN="your firebase login:ci Token"
 ```
 
@@ -25,7 +34,7 @@ flutter_distributor publish \
   --firebase-app '<app ID>' \
   --firebase-testers testers@gmail.com \
   --firebase-groups flutter_distributor \
-  --firebase-release-notes 'release v1.0.0'/
+  --firebase-release-notes 'release v1.0.0' /
 ```
 
 ### Configure `distribute_options.yaml`
@@ -60,8 +69,10 @@ Run:
 flutter_distributor release --name dev
 ```
 
-## Reference
+## Related Links
 
+- [Install the Firebase CLI](https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli)
+- [Use the CLI with CI systems](https://firebase.google.com/docs/cli?authuser=0#cli-ci-systems)
 - [Use Firebase CLI - iOS](https://firebase.google.com/docs/app-distribution/ios/distribute-cli?authuser=0)
 - [Use Firebase CLI - Android](https://firebase.google.com/docs/app-distribution/android/distribute-cli?authuser=0)
 
