@@ -17,6 +17,7 @@
   * [zip](configuration/makers/zip.md)
 * [Publishers](configuration/publishers/README.md)
   * [fir](configuration/publishers/fir.md)
+  * [firebase](configuration/publishers/firebase.md)
   * [pgyer](configuration/publishers/pgyer.md)
   * [qiniu](configuration/publishers/qiniu.md)
 
