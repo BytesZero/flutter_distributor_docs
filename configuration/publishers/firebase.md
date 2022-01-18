@@ -41,7 +41,6 @@ flutter_distributor publish \
 
 ```yaml
 env:
-  FIREBASE_APP_ID: your app ID, See[https://console.firebase.google.com/project/_/settings/general/?authuser=0]
   FIREBASE_TOKEN: your token, See[https://firebase.google.com/docs/cli?authuser=0#cli-ci-systems]
 output: dist/
 releases:
