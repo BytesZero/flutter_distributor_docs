@@ -21,8 +21,7 @@ flutter_distributor publish \
   --path dist/1.0.0+1/hello_world-1.0.0+1-android.apk \
   --targets github \
   --github-repo-owner 'leanflutter' \
-  --github-repo-name 'flutter_distributor' \
-  --github-release-title 'v1.0.0' /
+  --github-repo-name 'flutter_distributor'
 ```
 
 ### Configure `distribute_options.yaml`
