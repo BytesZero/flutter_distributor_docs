@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* [`Inno Setup 6`](https://jrsoftware.org/isinfo.php)``
+* [`Inno Setup 6`](https://jrsoftware.org/isinfo.php)\`\`
 
 ## Usage
 
@@ -21,8 +21,6 @@ Run:
 ```
 flutter_distributor package --platform windows --targets exe
 ```
-
-> PowerShell is not supported yet, please use Git Shell and execute `flutter_distributor.bat`.
 
 ## Related Links
 
