@@ -16,6 +16,7 @@
   * [ipa](configuration/makers/ipa.md)
   * [zip](configuration/makers/zip.md)
 * [Publishers](configuration/publishers/README.md)
+  * [appstore](configuration/publishers/appstore.md)
   * [fir](configuration/publishers/fir.md)
   * [firebase](configuration/publishers/firebase.md)
   * [github](configuration/publishers/github.md)
