@@ -1,6 +1,6 @@
 # github
 
-The github target publishes your package artifacts to the [github](https://github.com/leanflutter/flutter_distributor/releases) release.
+The github target publishes your package artifacts to the [github](https://github.com/leanflutter/flutter\_distributor/releases) release.
 
 ## Set up environment variables
 
@@ -21,8 +21,7 @@ flutter_distributor publish \
   --path dist/1.0.0+1/hello_world-1.0.0+1-android.apk \
   --targets github \
   --github-repo-owner 'leanflutter' \
-  --github-repo-name 'flutter_distributor' \
-  --github-release-title 'v1.0.0' /
+  --github-repo-name 'flutter_distributor'
 ```
 
 ### Configure `distribute_options.yaml`
@@ -46,7 +45,6 @@ releases:
           args:
             repo-owner: Repository owner
             repo-name: Repository name
-            release-title: Release title
 ```
 
 Run:
@@ -57,5 +55,4 @@ flutter_distributor release --name dev
 
 ## Related Links
 
-- [Creating a personal access token](https://docs.github.com/cn/enterprise-server@3.2/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-
+* [Creating a personal access token](https://docs.github.com/cn/enterprise-server@3.2/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
