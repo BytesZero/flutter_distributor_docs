@@ -8,7 +8,7 @@ requires some environment variables set up to run correctly,Choose one of the fo
 
 - Username and password
 
-Get an app-specific password：https://support.apple.com/HT204397
+Get an app-specific password：[https://support.apple.com/HT204397](https://support.apple.com/HT204397)
 ```
 export APPSTORE_USERNAME="Login Username"
 export APPSTORE_PASSWORD="App-specific password"
@@ -16,7 +16,7 @@ export APPSTORE_PASSWORD="App-specific password"
 
 - API key
 
-App Store Connect API: https://developer.apple.com/documentation/appstoreconnectapi
+App Store Connect API: [https://developer.apple.com/documentation/appstoreconnectapi](https://developer.apple.com/documentation/appstoreconnectapi)
 
 ```
 export APPSTORE_APIKEY="API key"
